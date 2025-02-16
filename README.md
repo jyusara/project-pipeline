@@ -29,7 +29,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
    ```bash
    cp .env.example .env
    ```
-
+// README
 ## Scripts disponibles
 
 - **build:** Transpila el código con TypeScript.
