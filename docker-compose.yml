@@ -24,7 +24,7 @@ services:
     #container_name: shopimax-apiv2
     restart: on-failure
     ports:
-      - '3002:3002'
+      - '3003:3002'
     depends_on:
       - mongo
     networks:
