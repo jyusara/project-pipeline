@@ -1,6 +1,6 @@
 
 # README 4
-# Base Node Project
+# Shopimax Project
 
 Estructura base para proyectos de node con typescript
 
