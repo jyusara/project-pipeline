@@ -6,6 +6,6 @@ import { seedAgents } from './seeders';
   app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
   });
-  await dbConnection.default();
-  await seedAgents();
+  //await dbConnection.default();
+  //await seedAgents();
 })();
