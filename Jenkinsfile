@@ -15,6 +15,13 @@ pipeline {
             }
         }
 
+        stage('Limpieza Previa') {
+            steps {
+                // Elimina el contenedor de Mongo en caso de que exista para evitar conflictos.
+                sh 'docker rm -f shopimax-dbv2 || true'
+            }
+        }
+
         stage('Build') {
             steps {
                 sh 'docker-compose build --no-cache'
