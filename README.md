@@ -81,6 +81,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
 
 Después de clonar o hacer fork del repositorio, puedes eliminar el historial de Git existente y comenzar un nuevo repositorio con estos pasos:
 
+jhon espinoza
 ```bash
       rm -rf .git
       git init
