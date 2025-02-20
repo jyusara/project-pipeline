@@ -77,7 +77,7 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) en tu máquina.
    └── tsconfig.json
 ```
 
-## Nota
+## Nota cambio de jhon Alvarado
 
 Después de clonar o hacer fork del repositorio, puedes eliminar el historial de Git existente y comenzar un nuevo repositorio con estos pasos:
 
