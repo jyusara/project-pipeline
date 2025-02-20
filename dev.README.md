@@ -1,6 +1,7 @@
 # shopimax-apiv2
 
 ## Requisitos
+# cambio
 
 1. **Instalar dependencias**:
     ```bash
