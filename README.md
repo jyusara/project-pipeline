@@ -3,7 +3,7 @@ daniel nestares silva realiza varios  cambios
 # Base Node Project
 
 # cambio nuevo
-Estructura base para proyectos de node con typescript.
+Estructura base para proyectos de node con typescript. HOLA 
 
 ## Características Principales
 
